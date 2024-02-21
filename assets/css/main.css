@@ -1977,3 +1977,8 @@ section {
   border-radius: 10px;
   background: #fff3cd;
 }
+
+.footer-row-center {
+  display: flex;
+  justify-content: space-between;
+}
